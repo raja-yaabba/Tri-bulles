@@ -1,0 +1,210 @@
+
+--- Taille du tableau : 300 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 0.36
+Iteration 1 - Pire cas : 0.585
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 0.36
+Iteration 2 - Pire cas : 0.451
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 0.23
+Iteration 3 - Pire cas : 0.46
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 0.27
+Iteration 4 - Pire cas : 0.32
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 0.3
+Iteration 5 - Pire cas : 0.331
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 0.304
+Pire temps : 0.585
+
+--- Taille du tableau : 600 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 1.699
+Iteration 1 - Pire cas : 2.545
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 1.53
+Iteration 2 - Pire cas : 2.38
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 4.91
+Iteration 3 - Pire cas : 7.23
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 5.091
+Iteration 4 - Pire cas : 6.675
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 4.55
+Iteration 5 - Pire cas : 6.7
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 3.556
+Pire temps : 7.23
+
+--- Taille du tableau : 900 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 16.131
+Iteration 1 - Pire cas : 23.701
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 16.484
+Iteration 2 - Pire cas : 16.956
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 5.69
+Iteration 3 - Pire cas : 16.72
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 18.398
+Iteration 4 - Pire cas : 13.61
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 9.43
+Iteration 5 - Pire cas : 11.53
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 13.227
+Pire temps : 23.701
+
+--- Taille du tableau : 1200 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 17.499
+Iteration 1 - Pire cas : 34.778
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 28.414
+Iteration 2 - Pire cas : 40.37
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 13.554
+Iteration 3 - Pire cas : 20.153
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 12.893
+Iteration 4 - Pire cas : 18.797
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 12.65
+Iteration 5 - Pire cas : 21.94
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 17.002
+Pire temps : 40.37
+
+--- Taille du tableau : 1500 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 40.432
+Iteration 1 - Pire cas : 37.042
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 26.145
+Iteration 2 - Pire cas : 40.12
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 24.79
+Iteration 3 - Pire cas : 36.985
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 25.22
+Iteration 4 - Pire cas : 37.58
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 39.98
+Iteration 5 - Pire cas : 68.83
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 31.313
+Pire temps : 68.83
+
+--- Taille du tableau : 1800 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 70.247
+Iteration 1 - Pire cas : 69.999
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 46.685
+Iteration 2 - Pire cas : 65.209
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 53.735
+Iteration 3 - Pire cas : 70.55
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 47.215
+Iteration 4 - Pire cas : 69.09
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 47.119
+Iteration 5 - Pire cas : 67.52
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 53.0
+Pire temps : 70.55
+
+--- Taille du tableau : 2100 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 70.079
+Iteration 1 - Pire cas : 104.903
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 72.102
+Iteration 2 - Pire cas : 104.198
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 71.531
+Iteration 3 - Pire cas : 113.886
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 76.768
+Iteration 4 - Pire cas : 108.341
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 74.176
+Iteration 5 - Pire cas : 107.952
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 72.931
+Pire temps : 113.886
+
+--- Taille du tableau : 2400 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 117.996
+Iteration 1 - Pire cas : 168.025
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 114.134
+Iteration 2 - Pire cas : 169.835
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 112.331
+Iteration 3 - Pire cas : 161.726
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 112.776
+Iteration 4 - Pire cas : 161.94
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 143.706
+Iteration 5 - Pire cas : 284.483
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 120.189
+Pire temps : 284.483
+
+--- Taille du tableau : 2700 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 331.569
+Iteration 1 - Pire cas : 329.811
+Iteration 2 - Meilleur cas : 0.0
+Iteration 2 - Temps moyen : 152.764
+Iteration 2 - Pire cas : 227.58
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 155.25
+Iteration 3 - Pire cas : 224.741
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 155.134
+Iteration 4 - Pire cas : 229.106
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 155.72
+Iteration 5 - Pire cas : 224.487
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 190.087
+Pire temps : 329.811
+
+--- Taille du tableau : 3000 ---
+Iteration 1 - Meilleur cas : 0.0
+Iteration 1 - Temps moyen : 212.526
+Iteration 1 - Pire cas : 310.685
+Iteration 2 - Meilleur cas : 0.001
+Iteration 2 - Temps moyen : 214.922
+Iteration 2 - Pire cas : 310.192
+Iteration 3 - Meilleur cas : 0.0
+Iteration 3 - Temps moyen : 213.211
+Iteration 3 - Pire cas : 312.36
+Iteration 4 - Meilleur cas : 0.0
+Iteration 4 - Temps moyen : 213.697
+Iteration 4 - Pire cas : 320.153
+Iteration 5 - Meilleur cas : 0.0
+Iteration 5 - Temps moyen : 209.346
+Iteration 5 - Pire cas : 310.009
+
+Meilleur temps : 0.0
+Moyenne des temps moyens : 212.74
+Pire temps : 329.811

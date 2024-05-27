@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1702752245 source:c:\users\but-info\onedrive - upec\documents\but info\but1\semestre 1\sae 1.02\langage c\tri à bulles\sae 1.02\main.c
+	<stdio.h>
+	<math.h>
+	"utiles.h"
+	"tris.h"
+
+1702726145 c:\users\but-info\onedrive - upec\documents\but info\but1\semestre 1\sae 1.02\langage c\tri à bulles\sae 1.02\tris.h
+
+1702770167 c:\users\but-info\onedrive - upec\documents\but info\but1\semestre 1\sae 1.02\langage c\tri à bulles\sae 1.02\utiles.h
+	<stdlib.h>
+
+1702465252 source:c:\users\but-info\onedrive - upec\documents\but info\but1\semestre 1\sae 1.02\langage c\tri à bulles\sae 1.02\test.h
+
+1702770150 source:c:\users\but-info\onedrive - upec\documents\but info\but1\semestre 1\sae 1.02\langage c\tri à bulles\sae 1.02\utiles.c
+	"utiles.h"
+	"tris.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702726145 source:c:\users\but-info\onedrive - upec\documents\but info\but1\semestre 1\sae 1.02\langage c\tri à bulles\sae 1.02\tris.c
+	"tris.h"
+

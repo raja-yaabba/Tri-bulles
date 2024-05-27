@@ -1,0 +1,250 @@
+--- Taille du tableau : 300 ---
+Meilleur cas : 0.000000 s
+Temps moyen : 0.000000 s
+Pire cas : 0.000 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.000 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.000000 s
+Pire cas : 0.000 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.000000 s
+Pire cas : 0.000 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.000000 s
+Pire cas : 0.000 s
+
+Meilleur temps : 0.000000 s
+Moyenne des temps moyens : 0.000200 s
+Pire temps : 0.000000 s
+
+--- Taille du tableau : 600 ---
+Meilleur cas : 0.000000 s
+Temps moyen : 0.000000 s
+Pire cas : 0.001 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.000 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.001 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.001 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.001 s
+
+Meilleur temps : 0.000000 s
+Moyenne des temps moyens : 0.000800 s
+Pire temps : 0.001000 s
+
+--- Taille du tableau : 900 ---
+Meilleur cas : 0.001000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.001 s
+
+Meilleur cas : 0.001000 s
+Temps moyen : 0.002000 s
+Pire cas : 0.002 s
+
+Meilleur cas : 0.001000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.002 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.001000 s
+Pire cas : 0.002 s
+
+Meilleur cas : 0.000000 s
+Temps moyen : 0.002000 s
+Pire cas : 0.002 s
+
+Meilleur temps : 0.000000 s
+Moyenne des temps moyens : 0.001400 s
+Pire temps : 0.002000 s
+
+--- Taille du tableau : 1200 ---
+Meilleur cas : 0.001000 s
+Temps moyen : 0.002000 s
+Pire cas : 0.003 s
+
+Meilleur cas : 0.001000 s
+Temps moyen : 0.002000 s
+Pire cas : 0.003 s
+
+Meilleur cas : 0.001000 s
+Temps moyen : 0.002000 s
+Pire cas : 0.004 s
+
+Meilleur cas : 0.001000 s
+Temps moyen : 0.002000 s
+Pire cas : 0.004 s
+
+Meilleur cas : 0.001000 s
+Temps moyen : 0.002000 s
+Pire cas : 0.003 s
+
+Meilleur temps : 0.001000 s
+Moyenne des temps moyens : 0.002000 s
+Pire temps : 0.004000 s
+
+--- Taille du tableau : 1500 ---
+Meilleur cas : 0.002000 s
+Temps moyen : 0.004000 s
+Pire cas : 0.004 s
+
+Meilleur cas : 0.002000 s
+Temps moyen : 0.004000 s
+Pire cas : 0.006 s
+
+Meilleur cas : 0.002000 s
+Temps moyen : 0.003000 s
+Pire cas : 0.005 s
+
+Meilleur cas : 0.003000 s
+Temps moyen : 0.003000 s
+Pire cas : 0.005 s
+
+Meilleur cas : 0.002000 s
+Temps moyen : 0.004000 s
+Pire cas : 0.004 s
+
+Meilleur temps : 0.002000 s
+Moyenne des temps moyens : 0.003600 s
+Pire temps : 0.006000 s
+
+--- Taille du tableau : 1800 ---
+Meilleur cas : 0.003000 s
+Temps moyen : 0.005000 s
+Pire cas : 0.007 s
+
+Meilleur cas : 0.003000 s
+Temps moyen : 0.005000 s
+Pire cas : 0.007 s
+
+Meilleur cas : 0.003000 s
+Temps moyen : 0.005000 s
+Pire cas : 0.007 s
+
+Meilleur cas : 0.003000 s
+Temps moyen : 0.006000 s
+Pire cas : 0.006 s
+
+Meilleur cas : 0.004000 s
+Temps moyen : 0.006000 s
+Pire cas : 0.010 s
+
+Meilleur temps : 0.003000 s
+Moyenne des temps moyens : 0.005400 s
+Pire temps : 0.010000 s
+
+--- Taille du tableau : 2100 ---
+Meilleur cas : 0.004000 s
+Temps moyen : 0.008000 s
+Pire cas : 0.010 s
+
+Meilleur cas : 0.005000 s
+Temps moyen : 0.007000 s
+Pire cas : 0.009 s
+
+Meilleur cas : 0.004000 s
+Temps moyen : 0.008000 s
+Pire cas : 0.008 s
+
+Meilleur cas : 0.004000 s
+Temps moyen : 0.008000 s
+Pire cas : 0.010 s
+
+Meilleur cas : 0.005000 s
+Temps moyen : 0.006000 s
+Pire cas : 0.009 s
+
+Meilleur temps : 0.004000 s
+Moyenne des temps moyens : 0.007400 s
+Pire temps : 0.010000 s
+
+--- Taille du tableau : 2400 ---
+Meilleur cas : 0.005000 s
+Temps moyen : 0.009000 s
+Pire cas : 0.011 s
+
+Meilleur cas : 0.005000 s
+Temps moyen : 0.009000 s
+Pire cas : 0.012 s
+
+Meilleur cas : 0.005000 s
+Temps moyen : 0.009000 s
+Pire cas : 0.012 s
+
+Meilleur cas : 0.006000 s
+Temps moyen : 0.009000 s
+Pire cas : 0.012 s
+
+Meilleur cas : 0.006000 s
+Temps moyen : 0.008000 s
+Pire cas : 0.013 s
+
+Meilleur temps : 0.005000 s
+Moyenne des temps moyens : 0.008800 s
+Pire temps : 0.013000 s
+
+--- Taille du tableau : 2700 ---
+Meilleur cas : 0.007000 s
+Temps moyen : 0.016000 s
+Pire cas : 0.017 s
+
+Meilleur cas : 0.008000 s
+Temps moyen : 0.015000 s
+Pire cas : 0.019 s
+
+Meilleur cas : 0.007000 s
+Temps moyen : 0.013000 s
+Pire cas : 0.016 s
+
+Meilleur cas : 0.007000 s
+Temps moyen : 0.013000 s
+Pire cas : 0.021 s
+
+Meilleur cas : 0.008000 s
+Temps moyen : 0.012000 s
+Pire cas : 0.014 s
+
+Meilleur temps : 0.007000 s
+Moyenne des temps moyens : 0.013800 s
+Pire temps : 0.021000 s
+
+--- Taille du tableau : 3000 ---
+Meilleur cas : 0.008000 s
+Temps moyen : 0.015000 s
+Pire cas : 0.019 s
+
+Meilleur cas : 0.009000 s
+Temps moyen : 0.014000 s
+Pire cas : 0.019 s
+
+Meilleur cas : 0.010000 s
+Temps moyen : 0.015000 s
+Pire cas : 0.019 s
+
+Meilleur cas : 0.008000 s
+Temps moyen : 0.016000 s
+Pire cas : 0.019 s
+
+Meilleur cas : 0.007000 s
+Temps moyen : 0.016000 s
+Pire cas : 0.016 s
+
+Meilleur temps : 0.007000 s
+Moyenne des temps moyens : 0.015200 s
+Pire temps : 0.019000 s
+
